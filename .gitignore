@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+build/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+.vscode/
