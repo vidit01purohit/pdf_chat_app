@@ -14,7 +14,7 @@ import logging
 prompt = ChatPromptTemplate.from_template(
     """
     You are a chat bot.
-    Answer the questions taking reference from the context provided.
+    Answer the questions taking reference from the context provided only.
     Please provide the most accurate response based on the question.
     If you dont know the answer, just say that you dont know.
     <context>

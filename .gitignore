@@ -22,3 +22,5 @@ venv/
 # IDEs
 .idea/
 .vscode/
+embeddings/
+uploads/
